@@ -1,5 +1,5 @@
-barcode-count=4975926
-brand-count=71198
-categ-count=2628
-word-count=829379
-barcode-ref-bytes-count=787993425
+barcode-count=5707957
+brand-count=78630
+categ-count=8220
+word-count=1077783
+barcode-ref-bytes-count=932018338
