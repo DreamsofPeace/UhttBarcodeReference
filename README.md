@@ -8,7 +8,7 @@ Universe-HTT barcode reference
 [![OpenPapyrus](https://github.com/papyrussolution/OpenPapyrus/blob/master/ManWork/Pict/PNG/ad-banner-openpapyrus-ru.png)](https://github.com/papyrussolution/OpenPapyrus)
 
 Самый большой и аккуратный открытый справочник штрихкодов в интернете! Если не верите - поисковики помогут развеять сомнения.
-Около 5 миллионов штрихкодов стандартов ean13,ean8,upc-e,upc-a с соответствующими наименованиями, брэндами и категориями.
+Более 5 миллионов 700 тысяч штрихкодов стандартов ean13,ean8,upc-e,upc-a с соответствующими наименованиями, брэндами и категориями.
 
 Кроме прочего, база данных включает в себя все валидные штрихкоды, представленные в базе данных [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/search/list) (по состоянию на август 2018 года).
 
@@ -43,7 +43,7 @@ Universe-HTT barcode reference
 ---------------------------
 
 The largest and most accurate open reference book of bar codes on the Internet! If you do not believe it, the search engines will help dispel doubts.
-About 5 million bar codes of ean13, ean8, upc-e, upc-a standards with corresponding names, brands and categories.
+More than 5 million 700 thousand bar codes of ean13, ean8, upc-e, upc-a standards with corresponding names, brands and categories.
 
 Among other things, the database includes all valid barcodes presented in the [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/search/list) (as of August 2018).
 
